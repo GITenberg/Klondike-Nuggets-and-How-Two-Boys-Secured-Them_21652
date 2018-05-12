@@ -1,0 +1,38 @@
+_repo: Klondike-Nuggets-and-How-Two-Boys-Secured-Them_21652
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Lowell, Orson
+    birthdate: 1871
+    deathdate: 1956
+    gutenberg_agent_id: '8723'
+    url: http://www.gutenberg.org/2009/agents/8723
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, E. S. (Edward Sylvester)
+    - Jayne, R. H.
+    - Ellis, Edward S. (Edward Sylvester)
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2007-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Klondike River Valley (Yukon) -- Gold discoveries -- Juvenile fiction'
+- !lcc 'PZ'
+title: Klondike Nuggets, and How Two Boys Secured Them
+url: http://www.gutenberg.org/ebooks/21652
